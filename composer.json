@@ -5,9 +5,19 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "syn-code"
+            "role": "Developer",
+            "name": "James Jones",
+            "email": "syncode2019@gmail.com",
+            "homepage": "https://www.github.com/syn-code"
         }
     ],
+    "require": {
+        "php": "^8.0"
+    },
+    "prefer-stable": true,
     "minimum-stability": "dev",
-    "require": {}
+    "config": {
+        "sort-packages": true,
+        "optimize-autoloader": true
+    }
 }
