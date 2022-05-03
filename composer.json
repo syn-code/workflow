@@ -1,0 +1,13 @@
+{
+    "name": "syn-code/workflow",
+    "description": "a simple workflow package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "syn-code"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
